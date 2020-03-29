@@ -1,0 +1,6 @@
+D:\VSWokrSpace\LinqStudy\LinqStudy\bin\Debug\LinqStudy.exe.config
+D:\VSWokrSpace\LinqStudy\LinqStudy\bin\Debug\LinqStudy.exe
+D:\VSWokrSpace\LinqStudy\LinqStudy\bin\Debug\LinqStudy.pdb
+D:\VSWokrSpace\LinqStudy\LinqStudy\obj\Debug\LinqStudy.csprojResolveAssemblyReference.cache
+D:\VSWokrSpace\LinqStudy\LinqStudy\obj\Debug\LinqStudy.exe
+D:\VSWokrSpace\LinqStudy\LinqStudy\obj\Debug\LinqStudy.pdb
