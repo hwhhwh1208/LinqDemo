@@ -4,3 +4,9 @@ D:\VSWokrSpace\LinqStudy\LinqStudy\bin\Debug\LinqStudy.pdb
 D:\VSWokrSpace\LinqStudy\LinqStudy\obj\Debug\LinqStudy.csprojResolveAssemblyReference.cache
 D:\VSWokrSpace\LinqStudy\LinqStudy\obj\Debug\LinqStudy.exe
 D:\VSWokrSpace\LinqStudy\LinqStudy\obj\Debug\LinqStudy.pdb
+C:\workspace\gitRepository\LinqDemo\LinqStudy\LinqStudy\bin\Debug\LinqStudy.exe.config
+C:\workspace\gitRepository\LinqDemo\LinqStudy\LinqStudy\obj\Debug\LinqStudy.exe
+C:\workspace\gitRepository\LinqDemo\LinqStudy\LinqStudy\obj\Debug\LinqStudy.pdb
+C:\workspace\gitRepository\LinqDemo\LinqStudy\LinqStudy\bin\Debug\LinqStudy.exe
+C:\workspace\gitRepository\LinqDemo\LinqStudy\LinqStudy\bin\Debug\LinqStudy.pdb
+C:\workspace\gitRepository\LinqDemo\LinqStudy\LinqStudy\obj\Debug\LinqStudy.csprojResolveAssemblyReference.cache
